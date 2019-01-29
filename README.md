@@ -1,4 +1,4 @@
-## suricap-post
+## gera-num-lote
 
-Gravação de logs do AWS API Gateway
+Gera número de lote para requisição da api de pagamento banco BB
 
