@@ -1,5 +1,5 @@
 {
-  "name": "gera-nro-lote",
+  "name": "gera-num-requisicao",
   "version": "1.0.0",
   "description": "Gravação de logs do AWS API Gateway",
   "main": "index.js",

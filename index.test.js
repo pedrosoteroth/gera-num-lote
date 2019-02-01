@@ -18,6 +18,5 @@ test('deve gerar lote', async () => {
         }
     };
     const result = await handler(body);
-    console.log(result);
-    expect(result.lote).toMatch(/20032003-1-3-123/);
+    expect(result.lote).toMatch(/2003200313123/);
 });
